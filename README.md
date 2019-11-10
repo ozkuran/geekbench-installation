@@ -1,4 +1,4 @@
-# [Geekbench](https://www.geekbench.com/ "Geekbench Homepage"") Installation Script
+# [Geekbench](https://www.geekbench.com/ "Geekbench Homepage") Installation Script
 
 ### v0.0.1
 
